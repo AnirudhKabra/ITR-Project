@@ -1,0 +1,8 @@
+flask
+scikit-learn
+numpy
+jsonify
+requests
+pandas
+seaborn
+matplotlib
